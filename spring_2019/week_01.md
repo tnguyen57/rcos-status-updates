@@ -1,24 +1,19 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
-
-> This past week, I was able to implement the the dialog box for creating a new user in the front end. I \
-> learned how to send requests in JavaScript to the backend API.
+> In the past week, I implemented the unit test for the BUFGate class for the project. I also
+> looked at the code right click popup menu in the last part.
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
-
-> After my accomplishments from last week, I plan to add accessibility features to the user creation dialog box. \
-> I also plan on attending the git workshop this week.
+> For the next week, I hope to get the basic right click popup menu to be working. I will
+> try to implement the menu poping up, and disappearing when clicked off of.
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> I don't know how to test the accessibility features I am going to be implementing this week, so i am going to \
-> ask my mentors if they have any suggestions.
+> Currently, the thing blocking me is my lack of knowledge of typescript, javascript, and php.
+> I don't know the syntax to well and this is the biggest block currently. This would make it
+> hard to transfer the current code from JS to typescript.
 
 ## Notes
 
-> This is an optional section for any sort of information that does not fall under any of the other categories.
+
